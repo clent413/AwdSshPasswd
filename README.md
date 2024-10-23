@@ -8,7 +8,7 @@
 
 https://github.com/Tkitn/awd_ssh_passwd_modify
 
-本地环境windwos11+3.11.6并未在其他平台进行测试
+本地环境windwos11+3.11.6并未在其他平台进行测试，可以直接下载打包好的文件https://github.com/clent413/AwdSshPasswd/releases/
 
 ## 介绍
 
